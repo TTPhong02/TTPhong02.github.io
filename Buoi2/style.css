@@ -1,0 +1,128 @@
+*{
+    padding: auto;
+    margin: auto ;
+}
+
+
+.first-main{
+    background-color: rgba(139, 240, 255, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0px;
+}
+.container{
+    max-width: 330px;
+    background-color: #fff;
+    border-radius: 20px;
+    text-align: center;
+}
+.first-content img{
+    width: 100%;
+    height: 150px;
+    border-radius: 20px 20px 0px 0px;
+}
+.last-content{
+    padding-bottom: 20px;
+}
+.last-content h2{
+    color: black;
+    font-size: 20px;
+    margin: 15px 30px;
+}
+.last-content p{
+    color: slategray;
+    font-size: 15px;
+    margin: 10px 40px;
+}
+.plan{
+    display: flex;
+    font-size: 15px;
+    margin: 20px 30px;
+    background-color: rgba(120, 248, 214, 0.5);
+    padding: 15px 20px;
+    border-radius: 10px;
+    width: auto;
+}
+.icon{
+    background-color: cadetblue;
+    border-radius: 50%;
+    padding: 10px 10px;
+    text-align: center;
+}
+.button a{
+    text-decoration: none;
+    color: #fff;
+}
+.button{
+    background-color: royalblue;
+    border-radius: 10px;
+    margin: 20px 30px;
+    padding: 8px 0px;
+}
+.button2 a{
+    text-decoration: none;
+    color:#000;
+}
+.button2{
+    border-radius: 3px;
+    border: 1px solid grey;
+    text-align: center;
+    padding: 5px;
+    margin: 15px 0px 0px 0px;
+}
+.button3{
+    background-color: royalblue;
+    border-radius: 10px;
+    margin: 20px 0px;
+    padding: 8px 0px;
+    width: 100%;
+    font-size: 17px;
+    color: #fff;
+}
+.second-main{
+    background-color:darkseagreen;
+    padding: 50px 0px;
+
+}
+.container2{
+    max-width: 330px;
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 20px 0px;
+
+}
+.login{
+    width: 280px;
+    padding: 20px 0px;
+    border-bottom: 1px solid grey;
+}
+.import{
+    margin: 20px 20px;
+    width: 280px;
+    border-bottom: 1px solid grey;
+
+}
+.import-content{
+    padding: 5px 0px;
+    margin: 10px 0px;
+    width: 100%;
+    border-radius: 5px;
+}
+.last-main a,
+.import a{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: blue;
+    margin:  5px 0px 15px 0px;
+}
+
+
+.last-main{
+    width: 280px;
+    text-align: center;
+
+
+}
+
