@@ -153,11 +153,14 @@ section{
     margin: 5px 10px;
 
 }
-
-.container.main-content.{
-
+@media (min-width:320px) and (max-width:480px){
+    font-size: 30px;
 }
 
-.container.last-content{
+@media  (min-width:481px) and (max-width:767px){
 
+    
+}
+@media (min-width:768px) and (max-width: 1024px) {
+    
 }
