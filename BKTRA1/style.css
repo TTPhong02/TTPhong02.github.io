@@ -1,0 +1,146 @@
+*{
+    padding: 0;
+    margin: 0%;
+}
+header{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXkR0rKcF_UkwEN6gIiv0uYZVBVO_QlCupohOu6iun2XGNRt5KXrsPfFv10lGdr3ZP6A&usqp=CAU');
+    background-size: 100% 200px;
+    background-repeat: none;
+}
+a{
+    text-decoration: none;   
+}
+ul{
+    list-style: none;
+}
+.container{
+    
+}
+.first-header{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 50px;
+}
+.logo{
+    margin-left: 10px;
+}
+.logo a{
+    font-size: 50px;
+    text-decoration: underline;
+    color: beige;
+}
+.name{
+    font-size: 30px;
+    color:chocolate;
+}
+.second-header{
+    background-color: aqua;
+    padding: 10px 0px;
+}
+.nav-bar{
+
+}
+.nav-menu{
+    display: flex;
+    justify-content: space-around;
+}
+.nav-menu li{
+    margin: 0px 20px;
+    font-size: 20px;
+}
+.content{
+    display: flex;
+}
+.product{
+    margin: 5px 5px;
+
+    padding: 0px 0px;
+
+}
+.title-search,
+.title-product{
+    background-color:gold;
+}
+.title-search p,
+
+.title-product p{
+    color: forestgreen;
+    padding: 10px;
+    font-size: 20px;
+}
+.item-product{
+
+}
+.content-product{
+    display: flex;
+    margin-bottom: 20px;
+}
+.box{
+    text-align: center;
+
+}
+.box img{
+    width: 250px;
+}
+.box img :hover {
+    width: 270px;
+}
+.image-box{
+    padding: 5px 10px;
+    border: 1px solid grey;
+    margin: 10px 20px;
+}
+.infor-box{
+    color: #330066;
+}
+.feed-back{
+    margin: 5px 5px;
+}
+.video{
+
+}
+.search{
+    background-color: honeydew;
+    box-shadow: grey;
+}
+  
+
+.content-search{
+    display: flex;
+    flex-direction: column;
+}
+.content-search input{
+    margin: 3px 5px;
+    font-size: 20px;
+    padding: 5px;
+}
+.news{
+    margin: 5px 5px;
+
+}
+.backpack{
+    text-align: center;
+    border: 2px solid indianred;
+    margin-bottom: 8px;
+    border-radius: 16px 15px 5px 5px;
+
+}
+.title-backpack{
+    background-color: indianred;
+    color:ivory ;
+    padding: 10px 2px;
+    font-size: 20px;
+    border-radius: 10px 10px 0px 0px;
+}
+.backpack a,
+.backpack p{
+    font-size: 18px;
+    margin: 10px 0px;
+    color: indianred;
+
+}
+.infor-bp{
+    border-bottom: 2px solid indianred;
+    margin: 5px 20px;
+
+}
